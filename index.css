@@ -1,0 +1,104 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #efefef;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+p,
+h4,
+p1 {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+header {
+  background-color: #e5e4e2;
+  padding: 80px;
+}
+header a {
+  font-size: 30px;
+  text-decoration: none;
+  text-align: center;
+  color: black;
+}
+header a:hover {
+  color: black;
+  font-style: bold;
+}
+.navbar {
+  padding: 20px;
+  text-align: center;
+  font-size: 12px;
+  background-color: white;
+}
+.navbar a {
+  float: left;
+  display: block;
+
+  padding: 3px 13px;
+  text-decoration: none;
+}
+.navbar a.right {
+  float: right;
+}
+.navbar a.left {
+  font-size: 20px;
+}
+.navbar a:hover {
+  color: black;
+  font-style: bold;
+}
+footer {
+  margin-top: 70vh;
+
+  padding: available;
+}
+.left {
+  width: 25%;
+  float: left;
+}
+.left1 {
+  width: 50%;
+  float: left;
+}
+.main {
+  width: 40%;
+  float: left;
+}
+.right {
+  width: 35%;
+  float: left;
+}
+.right1 {
+  width: 50%;
+  float: left;
+}
+h3 {
+  margin-left: 50px;
+  margin-right: 20px;
+  margin-top: 30px;
+  background-color: #e5e4e2;
+}
+p {
+  color: gray;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -ms-user-select: none;
+}
+img {
+  margin-left: 200px;
+  margin-right: 20px;
+  margin-top: 10px;
+  height: 190px;
+  width: 170px;
+}
+.zurag {
+  margin-left: 60px;
+  margin-right: 20px;
+  margin-top: 10px;
+  height: 180px;
+  width: 250px;
+}
