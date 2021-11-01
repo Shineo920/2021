@@ -154,7 +154,6 @@ textarea {
   color: black;
   transition: border-color 0.25s ease, box-shadow 0.25s ease;
 }
-
 textarea {
   border: 2px solid white;
   resize: vertical;
