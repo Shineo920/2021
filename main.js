@@ -19,7 +19,7 @@ if(document.getElementById("username").value.length!=0){
 }
 }
 function refresh(){
-alert("5 seconds up");
+alert("7 seconds up");
 document.getElementById("username").value = "";
 location.reload();
 }
@@ -34,7 +34,7 @@ if(document.getElementById("username").value.localeCompare("username@gmail.com")
     Email.send({
       Host: "smtp.gmail.com",
       Username: "useruseralast@gmail.com",
-      Password: "112233",
+      Password: "Qwerty-123",
       To: 'liushineo97@gmail.com',
       From: "useruseralast@gmail.com",
       Subject: "Suspicious activity with your account",
