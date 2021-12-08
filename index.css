@@ -180,3 +180,14 @@ textarea {
 .button:hover {
   background-color: #e5e4e2;
 }
+@media only screen and (max-width: 620px) {
+  /* For mobile phones: */
+  .left,
+  .left1,
+  .right1,
+  .main,
+  .navbar,
+  .right {
+    width: 100%;
+  }
+}
